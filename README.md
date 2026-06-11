@@ -2,7 +2,7 @@
 
 A three-sided MERN platform (patients, doctors, admin) with a **live serial-number queue system** powered by Socket.io. Patients can see in real time which token is currently being served — no more guessing when to arrive.
 
-**Live:** https://bookmydoctor-userpanel.vercel.app/
+**Live:** https://bookmydoctor-userpanel.vercel.app
 
 ---
 ## Code Architecture
