@@ -53,23 +53,6 @@ A three-sided MERN platform (patients, doctors, admin) with a **live serial-numb
 | Security | express-rate-limit, express-validator, Google reCAPTCHA |
 | Logging | Winston |
 
----
-
-### Required Environment Variables
-
-```env
-MONGO_URI=
-SESSION_SECRET=
-RAZORPAY_KEY_ID=
-RAZORPAY_KEY_SECRET=
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
-RECAPTCHA_SECRET_KEY=
-CLOUDINARY_CLOUD_NAME=
-CLOUDINARY_API_KEY=
-CLOUDINARY_API_SECRET=
-RESEND_API_KEY=
-```
 
 ---
 
