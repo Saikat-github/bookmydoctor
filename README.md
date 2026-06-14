@@ -8,7 +8,7 @@ A three-sided MERN platform (patients, doctors, admin) with a **live serial-numb
 ## Code Architecture
 
 - backend → https://github.com/Saikat-github/bookmydoctor-backend
-- admin panel → https://github.com/Saikat-github/bookmydoctor-adminpanel
+- doctor panel → https://github.com/Saikat-github/bookmydoctor-doctorpanel
 - user panel → https://github.com/Saikat-github/bookmydoctor-userpanel
 
 ---
